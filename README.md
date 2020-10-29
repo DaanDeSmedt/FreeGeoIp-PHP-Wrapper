@@ -1,7 +1,7 @@
 PHP wrapper for the FreeGeoIp Geolocation API
 =======
 
-Basic PHP wrapper for the [FreeGeoIp Geolocation API] (https://freegeoip.net/)
+Basic PHP wrapper for the [FreeGeoIp Geolocation API] (https://freegeoip.app/)
 
 
 ### Installation
